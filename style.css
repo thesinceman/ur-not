@@ -24,3 +24,17 @@ body {
   color: white;
   font-size: 4vw;
 }
+
+.smol {
+  text-align: left;
+  color: white;
+  font-size: 1vw;
+}
+
+.door2 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  background-color: black;
+}
