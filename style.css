@@ -5,7 +5,7 @@
   font-size: 60px;
 }
 body {
-  background-color: black;
+  background-image: url("https://wallpaperaccess.com/full/1801916.jpg");
 }
 
 .door {
@@ -26,7 +26,7 @@ body {
 }
 
 .smol {
-  text-align: left;
+  text-align: center;
   color: white;
   font-size: 1vw;
 }
@@ -37,4 +37,19 @@ body {
   margin-right: auto;
   width: 50%;
   background-color: black;
+}
+.door3 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  background-color: black;
+}
+.row {
+  display: flex;
+}
+
+.column {
+  flex: 33.33%;
+  padding: 5px;
 }
